@@ -1,0 +1,12 @@
+h2{
+    font-size: 40px;
+    color: darkred;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 8px;
+    display: block;
+    margin: 200px auto;
+    width: 30%;
+    background-color: darkseagreen;
+}
